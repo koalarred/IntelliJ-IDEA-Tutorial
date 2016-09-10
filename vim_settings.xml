@@ -3,13 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/masterSpring/untitled/src/com/guoqing/helloworld.java" timestamp="1473518316035">
-        <mark key="[" line="5" column="3" />
+      <file name="D:/masterSpring/untitled/src/com/guoqing/helloworld.java" timestamp="1473519174764">
+        <mark key="[" line="7" column="20" />
         <mark key="]" line="5" column="2" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="D:/masterSpring/untitled/test.html" timestamp="1473518246667" />
     </filemarks>
     <jumps />
     <registers />
@@ -17,7 +16,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
