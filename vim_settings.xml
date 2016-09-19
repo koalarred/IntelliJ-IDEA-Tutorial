@@ -9,12 +9,57 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="D:/masterSpring/springmvc1/web/WEB-INF/springmvc-servlet.xml" timestamp="1474289182990">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+      </file>
+      <file name="D:/masterSpring/springmvc1/web/WEB-INF/SpringMvc-servlet.xml" timestamp="1474289514757" />
+      <file name="D:/masterSpring/springmvc1/web/WEB-INF/web.xml" timestamp="1474289388961">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1473777490253">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8c2VydmxldC1uYW1lPnNwcmluZ212Yzwvc2VydmxldC1uYW1lPgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>cpringmvc</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">PGFvcDpjb25maWcgcHJveHktdGFyZ2V0LWNsYXNzPSJ0cnVlIj4KCQk8YW9wOnBvaW50Y3V0IGlkPSJzZXJ2aWNlTWV0aG9kIgoJCQlleHByZXNzaW9uPSIgZXhlY3V0aW9uKCogY29tLmJhb2Jhb3Rhby5zZXJ2aWNlLi4qKC4uKSkiIC8+CgkJPGFvcDphZHZpc29yIHBvaW50Y3V0LXJlZj0ic2VydmljZU1ldGhvZCIgYWR2aWNlLXJlZj0idHhBZHZpY2UiIC8+Cgk8L2FvcDpjb25maWc+</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwvbGlzdGVuZXI+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8bGlzdGVuZXItY2xhc3M+b3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuY29udGV4dC5Db250ZXh0TG9hZGVyTGlzdGVuZXI8L2xpc3RlbmVyLWNsYXNzPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxsaXN0ZW5lcj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwvY2Rkb250ZXh0LXBhcmFtPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8cGFyYW0tdmFsdWU+L1dFQi1JTkYvYXBwbGljYXRpb25Db250ZXh0LnhtbDwvcGFyYW0tdmFsdWU+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8cGFyYW0tbmFtZT5jb250ZXh0Q29uZmlnTG9jYXRpb248L3BhcmFtLW5hbWU+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxjZGRvbnRleHQtcGFyYW0+Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>cpringmvc</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -28,6 +73,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
