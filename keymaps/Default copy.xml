@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <mouse-shortcut keystroke="button1 doubleClick" />
+  </action>
+  <action id="Editor Copy">
+    <mouse-shortcut keystroke="button1 doubleClick" />
+  </action>
+</keymap>

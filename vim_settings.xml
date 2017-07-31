@@ -3,6 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1473777490253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/UserService.java" timestamp="1501512414809">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/controller/UserController.java" timestamp="1501513088208">
+        <mark key="[" line="45" column="60" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+      </file>
       <file name="D:/masterSpring/untitled/src/com/guoqing/helloworld.java" timestamp="1473519174764">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="5" column="2" />
@@ -14,50 +28,88 @@
         <mark key="]" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="D:/masterSpring/springmvc1/web/WEB-INF/SpringMvc-servlet.xml" timestamp="1474289514757" />
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/dao/userMapper.java" timestamp="1501512541965">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+      </file>
       <file name="D:/masterSpring/springmvc1/web/WEB-INF/web.xml" timestamp="1474289388961">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1473777490253">
+      <file name="D:/workspace/springmvc20170605/web/views/user.jsp" timestamp="1501509323032">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="D:/workspace/springmvc20170605/web/views/user_list.jsp" timestamp="1501510002823">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+      </file>
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/impl/UserServiceImpl.java" timestamp="1501512838110">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+      </file>
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/mapping/userMapper.xml" timestamp="1501512709461">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="87" column="23" />
+        <mark key="." line="90" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1501510549836">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="4" column="28" filename="D:/workspace/springmvc20170605/src/com/guoqing/mapping/userMapper.xml" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmxldC1uYW1lPnNwcmluZ212Yzwvc2VydmxldC1uYW1lPgo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>cpringmvc</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGFvcDpjb25maWcgcHJveHktdGFyZ2V0LWNsYXNzPSJ0cnVlIj4KCQk8YW9wOnBvaW50Y3V0IGlkPSJzZXJ2aWNlTWV0aG9kIgoJCQlleHByZXNzaW9uPSIgZXhlY3V0aW9uKCogY29tLmJhb2Jhb3Rhby5zZXJ2aWNlLi4qKC4uKSkiIC8+CgkJPGFvcDphZHZpc29yIHBvaW50Y3V0LXJlZj0ic2VydmljZU1ldGhvZCIgYWR2aWNlLXJlZj0idHhBZHZpY2UiIC8+Cgk8L2FvcDpjb25maWc+</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvbGlzdGVuZXI+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bGlzdGVuZXItY2xhc3M+b3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuY29udGV4dC5Db250ZXh0TG9hZGVyTGlzdGVuZXI8L2xpc3RlbmVyLWNsYXNzPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsaXN0ZW5lcj4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvY2Rkb250ZXh0LXBhcmFtPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cGFyYW0tdmFsdWU+L1dFQi1JTkYvYXBwbGljYXRpb25Db250ZXh0LnhtbDwvcGFyYW0tdmFsdWU+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cGFyYW0tbmFtZT5jb250ZXh0Q29uZmlnTG9jYXRpb248L3BhcmFtLW5hbWU+Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxjZGRvbnRleHQtcGFyYW0+Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cpringmvc</text>
+        <text encoding="base64">cHVibGljIA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldFVzZXJMaXN0KFVzZXIgdXNlcik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlSW1wbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlSW1wbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgZGQgQE92ZXJyaWRlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRVc2VyTGlzdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8cmVzdWx0TWFwIGlkPSIiIHR5cGU9IiIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldFVzZXJMaXN0KFVzZXIgdXNlcik7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -66,7 +118,11 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>e!</entry>
+        <entry>s</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -79,6 +135,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
