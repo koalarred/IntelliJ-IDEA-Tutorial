@@ -1,12 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/springmvc20170605/out/artifacts/springmvc20170605_war_exploded/WEB-INF/classes/beans.xml" timestamp="1501517099572" />
       <file name="/a.dummy" timestamp="1473777490253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/springmvc20170605/web/views/user_add.jsp" timestamp="1501515527766" />
       <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/UserService.java" timestamp="1501512414809">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="45" />
@@ -29,11 +29,22 @@
         <mark key="]" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
+      <file name="D:/workspace/springmvc20170605/src/beans.xml" timestamp="1501517243620">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="D:/workspace/springmvc20170605/src/com/guoqing/dao/userMapper.java" timestamp="1501512541965">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="4" />
+      </file>
+      <file name="D:/workspace/springmvc20170605/web/mybatis-config.xml" timestamp="1501516641881">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/masterSpring/springmvc1/web/WEB-INF/web.xml" timestamp="1474289388961">
         <mark key="[" line="15" column="30" />
@@ -45,6 +56,10 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="D:/workspace/springmvc20170605/src/mybatis-config.xml" timestamp="1501516828645">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="71" />
       </file>
       <file name="D:/workspace/springmvc20170605/web/views/user_list.jsp" timestamp="1501515536722">
         <mark key="[" line="14" column="32" />
@@ -58,23 +73,24 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="D:/workspace/springmvc20170605/src/com/guoqing/mapping/userMapper.xml" timestamp="1501512709461">
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/mapping/userMapper.xml" timestamp="1501517200253">
         <mark key="'" line="4" column="28" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="^" line="87" column="23" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="D:/workspace/springmvc20170605/test/com/guoqing/test.java" timestamp="1501515630891">
+      <file name="D:/workspace/springmvc20170605/test/com/guoqing/test.java" timestamp="1501516583020">
         <mark key="'" line="30" column="8" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="8" />
-        <mark key="^" line="30" column="53" />
-        <mark key="." line="30" column="8" />
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="31" column="29" />
       </file>
       <file name="/fragment.java" timestamp="1501510549836">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/springmvc20170605/web/WEB-INF/springmvc-servlet.xml" timestamp="1501516724080" />
     </filemarks>
     <jumps>
       <jump line="4" column="28" filename="D:/workspace/springmvc20170605/src/com/guoqing/mapping/userMapper.xml" />
@@ -82,40 +98,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldFVzZXJMaXN0KFVzZXIgdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJjb20vZ3VvcWluZy9tYXBwaW5nL3VzZXJNYXBwZXIueG1sIj48L21hcHBlcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJjb20vZ3VvcWluZy9tYXBwZXIvVXNlciI+PC9tYXBwZXI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGk9MDtpPFVzZXJzLmxhc3RJbmRleE9mKFVzZXIpO2krKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihudW1baV0pOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFyayk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlSW1wbAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFVzZXI6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlSW1wbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgZGQgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRVc2VyTGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cmVzdWx0TWFwIGlkPSIiIHR5cGU9IiIK</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldFVzZXJMaXN0KFVzZXIgdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlSW1wbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -156,6 +172,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
