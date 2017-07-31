@@ -6,16 +6,17 @@
       <file name="/a.dummy" timestamp="1473777490253">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/springmvc20170605/web/views/user_add.jsp" timestamp="1501515527766" />
       <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/UserService.java" timestamp="1501512414809">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/workspace/springmvc20170605/src/com/guoqing/controller/UserController.java" timestamp="1501513968204">
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/controller/UserController.java" timestamp="1501515419390">
         <mark key="[" line="47" column="9" />
-        <mark key="]" line="47" column="8" />
-        <mark key="." line="47" column="8" />
-        <mark key="^" line="47" column="8" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="D:/masterSpring/untitled/src/com/guoqing/helloworld.java" timestamp="1473519174764">
         <mark key="[" line="7" column="20" />
@@ -45,13 +46,13 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="D:/workspace/springmvc20170605/web/views/user_list.jsp" timestamp="1501513945597">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="14" column="43" />
+      <file name="D:/workspace/springmvc20170605/web/views/user_list.jsp" timestamp="1501515536722">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="33" />
         <mark key="^" line="14" column="43" />
-        <mark key="." line="14" column="43" />
+        <mark key="." line="14" column="33" />
       </file>
-      <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/impl/UserServiceImpl.java" timestamp="1501512838110">
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/impl/UserServiceImpl.java" timestamp="1501515542303">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="28" column="4" />
         <mark key="." line="28" column="4" />
@@ -64,19 +65,27 @@
         <mark key="^" line="87" column="23" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="D:/workspace/springmvc20170605/test/com/guoqing/test.java" timestamp="1501515630891">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="53" />
+        <mark key="." line="30" column="8" />
+      </file>
       <file name="/fragment.java" timestamp="1501510549836">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="4" column="28" filename="D:/workspace/springmvc20170605/src/com/guoqing/mapping/userMapper.xml" />
+      <jump line="28" column="8" filename="D:/workspace/springmvc20170605/test/com/guoqing/test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldFVzZXJMaXN0KFVzZXIgdXNlcik7Cg==</text>
