@@ -6,17 +6,20 @@
       <file name="/a.dummy" timestamp="1473777490253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/UserService.java" timestamp="1501681448310">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="11" />
+      <file name="D:/workspace/springmvc20170605/web/views/user_add.jsp" timestamp="1501685830483" />
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/UserService.java" timestamp="1501686274776">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="9" />
       </file>
-      <file name="D:/workspace/springmvc20170605/src/com/guoqing/controller/UserController.java" timestamp="1501680735537">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/controller/UserController.java" timestamp="1501687829589">
+        <mark key="a" line="62" column="0" />
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="88" column="27" />
+        <mark key="]" line="86" column="19" />
+        <mark key="^" line="86" column="29" />
+        <mark key="." line="86" column="19" />
       </file>
       <file name="D:/masterSpring/untitled/src/com/guoqing/helloworld.java" timestamp="1473519174764">
         <mark key="[" line="7" column="20" />
@@ -35,7 +38,7 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="77" />
       </file>
-      <file name="D:/workspace/springmvc20170605/src/com/guoqing/dao/userMapper.java" timestamp="1501681385052">
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/dao/userMapper.java" timestamp="1501686401738">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -61,16 +64,16 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="71" />
       </file>
-      <file name="D:/workspace/springmvc20170605/web/views/user_list.jsp" timestamp="1501683096599">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/workspace/springmvc20170605/web/views/user_list.jsp" timestamp="1501687535709">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="31" />
       </file>
-      <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/impl/UserServiceImpl.java" timestamp="1501681754496">
-        <mark key="[" line="56" column="9" />
-        <mark key="]" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-        <mark key="^" line="59" column="22" />
+      <file name="D:/workspace/springmvc20170605/src/com/guoqing/Service/impl/UserServiceImpl.java" timestamp="1501686466333">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="D:/workspace/springmvc20170605/src/com/guoqing/mapping/userMapper.xml" timestamp="1501681338198">
         <mark key="'" line="4" column="28" />
@@ -89,49 +92,56 @@
       <file name="/fragment.java" timestamp="1501510549836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/springmvc20170605/web/WEB-INF/springmvc-servlet.xml" timestamp="1501680497436" />
+      <file name="D:/workspace/springmvc20170605/web/views/user_update.jsp" timestamp="1501688075048">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="28" filename="D:/workspace/springmvc20170605/src/com/guoqing/mapping/userMapper.xml" />
       <jump line="28" column="8" filename="D:/workspace/springmvc20170605/test/com/guoqing/test.java" />
       <jump line="40" column="8" filename="D:/workspace/springmvc20170605/src/com/guoqing/Service/impl/UserServiceImpl.java" />
+      <jump line="23" column="0" filename="D:/workspace/springmvc20170605/src/com/guoqing/controller/UserController.java" />
+      <jump line="62" column="0" filename="D:/workspace/springmvc20170605/src/com/guoqing/controller/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JT4K</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjxpbnB1dCB0eXBlPSJ0ZXh0IiB2YWx1ZT0ke3VzZXIuYWdlfSA+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICBpZih1c2VyICE9IG51bGwgJiYgdXNlci5nZXRJZCgpICE9IG51bGwgKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHVzZXJNYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKHVzZXIpOwogICAgICAgIH0KICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JT4K</text>
+        <text encoding="base64">ICAgIG5hbWU6PGlucHV0IHR5cGU9InRleHQiIG5hbWU9JHt1c2VyLm5hbWV9Lz48YnIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG5pY2tOYW1lOjxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSR7dXNlci5uaWNrTmFtZX0vPjxici8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RvICAgc29tZXRoaW5nICAgZWxzZSAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJpbmZvIiwidXBkYXRlIFVzZXIgZXJyb3IiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2UgICBpZiAgIChhY3Rpb24uZXF1YWxzKCJidXR0b24yIikpCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RvICAgc29tZXRoaW5nICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJpbmZvIiwidXBkYXRlIFVzZXIgb2siKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICAgKGFjdGlvbi5lcXVhbHMoImJ1dHRvbjEiKSkK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -147,6 +157,7 @@
         <entry>e!</entry>
         <entry>s</entry>
         <entry>wq</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
